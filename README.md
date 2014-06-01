@@ -8,6 +8,7 @@ Prerequisite
 
 `html`
 `JS`
+`CSS`
 
 Usage
 -----
